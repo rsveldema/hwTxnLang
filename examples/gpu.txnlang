@@ -1,0 +1,18 @@
+
+
+class Memory
+{
+
+}
+
+
+def run()
+{        
+    txn {
+        
+    }
+
+    loop {
+        
+    }
+}
